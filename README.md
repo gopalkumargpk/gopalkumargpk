@@ -2,4 +2,5 @@
 -  I’m interested in Android app development,and emerging technologies.
 -  I’m currently learning Kotlin coroutines to enhance my Android development skills.
 - I’m looking to collaborate on open-source Android projects opportunities that involve creating innovative mobile experiences.
-- You can reach me via email at imgopal0101@gmail.com or connect with me on https://www.linkedin.com/in/gopal-kumar-4b3804280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- You can reach me via email at imgopal0101@gmail.com
+- connect with me on https://www.linkedin.com/in/gopal-kumar-4b3804280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
